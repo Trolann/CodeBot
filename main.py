@@ -12,8 +12,6 @@ guild = ''
 DISCORD_TOKEN = os.environ['DISCORD_TOKEN'] # Stored in secrets
 GUILD_ID = int(os.environ['GUILD_ID']) # Stored in secrets
 
-#voice_channel_id = int(902294184994693224)
-
 #*****************************************************#
 #                      On ready:                      #
 #                    Basic actions                    #
